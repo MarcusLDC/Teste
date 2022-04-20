@@ -7,6 +7,7 @@ namespace Teste
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mudança");
             const int TAM = 2;
             int[,] matriz = new int[TAM,TAM];
             int negativos = 0;
